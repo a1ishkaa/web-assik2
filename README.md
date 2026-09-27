@@ -1,7 +1,7 @@
 
 # Assignment 2 - Advanced CSS
 
-**Name:** Alisher Sakenov  
+**Name:** Alisher Yeskermes  
 **Group:** IT-2501
 
 ## Task 0 - Navigation Bar
@@ -47,6 +47,10 @@ Grid is used for the main portfolio layout.
 
 
 ## Summary
+In this assignment, I implemented modern CSS layout techniques using **Flexbox** and **CSS Grid** to build responsive web components and structural layouts:
 
-In this assignment, I learned how to use Flexbox and CSS Grid.
-I practiced alignment, spacing, rows, columns and hover effects.
+* **Task 0 (Navigation Bar):** Built a flexible header layout using Flexbox with space-between alignment and vertically centered elements.
+* **Task 1 (Card Row):** Designed an equal-height product card row using Flexbox with smooth hover elevation effects (`transform` and `box-shadow`).
+* **Task 2 (Grid Layout):** Structured a classic web page layout (Header, Sidebar, Main Content, Footer) using `grid-template-areas`.
+* **Task 3 (Image Gallery):** Created a responsive 3x3 photo gallery using CSS Grid with animated caption overlays on hover.
+* **Task 4 (Portfolio Page):** Combined Flexbox and CSS Grid to create a multi-section portfolio with a dynamic two-column content layout and flex-driven project cards.
